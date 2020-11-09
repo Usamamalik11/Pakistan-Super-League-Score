@@ -1,6 +1,7 @@
 ![PSL](https://github.com/Usamamalik11/Pakistan-Super-League-Score/blob/main/PSL-2020-banner.jpeg)
 
 
+Google Cloud App Link: https://cricket231.el.r.appspot.com
 # PSL Score Prediction
 Have you ever thought while watching a cricket match that what is going to be final score. Your answer is usually provided by the TV channel which is broadcasting the match. But sometimes you wonder whether it's the right prediction. That finl prediction is usually provided by artificial intelligence working in the backend. Can we ourselve develop such kind of models from scratch?
 This gave me an idea to work on a similar project for my country's cricket league i.e. Pakistan Super league. Using streamlit and flask, I developed a basic web app that predicts the final score upon providing certain stats during the match. Lets see how the backend machine learning moel works in this case and what was the whole procedure.
