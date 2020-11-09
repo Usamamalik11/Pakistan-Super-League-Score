@@ -49,7 +49,7 @@ The algorithm I used is random forest regressor. I tried some other algos as wel
 ## Web App
 The first web app was developed with the help of flask. You can understand and run the code and run the app on your machine. The code is simple python and I hope you'll we able to understand it.
 The second web app was develped with the help of stramlit and I was amazed to know how easy it was to develop a web app using streamlit. Its file is also there in the repository.
-I'll also deploy the model in AWS and Azure in few days so that it can be accessed easily.
+I'll also deploy the model in AWS and Azure in few days so that it can be accessed easily.(already deployed on google cloud)
 
 There is also a docker file in the repo but I was unable to dockerize the whole model due to certain problems in my laptop. However you can download and do it yourself. You are welcome to make any improvements to the model. Thank You.
 
